@@ -60,6 +60,8 @@ function getWeatherIcon(type){
         return "/images/rainy.jpg"
     else if(type == "mist")
         return "/images/mist.jpg"
+    else if(type == "snow")
+        return "/images/snow.jpg"
 
 }
 
